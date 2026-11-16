@@ -1,0 +1,15 @@
+**/auth.json
+**/accounts-index.json
+**/Accounts/
+**/Backups/
+**/CodexAccounts/
+**/migration-source.txt
+**/settings.json
+*.tmp
+*.tmp-*
+*.log
+*.bak
+outputs/
+work/
+.DS_Store
+Thumbs.db
